@@ -16,6 +16,7 @@ object RandomUtil {
                 result.add(ran)
             }
         } while (checkOverlap(result))
+//        println(result)
         return result
     }
 
