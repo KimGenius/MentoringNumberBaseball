@@ -10,7 +10,9 @@ fun main(args: Array<String>) {
     val result = setNumbers()
     startGame(result)
 }
-
+//fun teset() {
+//
+//}
 fun setNumbers(): ArrayList<Int> {
     do {
         print("1~10 정수형으로 난이도를 선택하세요 (높은 숫자일수록 난이도가 높아집니다) : ")
