@@ -5,7 +5,9 @@ import kotlin.collections.ArrayList
 var level = 0
 var inputList = ArrayList<Int>()
 val scan = Scanner(System.`in`)
+fun a(){
 
+}
 fun main(args: Array<String>) {
     val result = setNumbers()
     startGame(result)
